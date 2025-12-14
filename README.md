@@ -81,10 +81,10 @@ While complex models may achieve higher predictive accuracy, they are harder to 
 ├── .gitignore
 └── README.md
 
-
+## Setup Instructions
 ## Setup Instructions
 1. Clone the repository
 2. Create a virtual environment
-3. Install dependencies:
+3. Install dependencies
 ```bash
 pip install -r requirements.txt
